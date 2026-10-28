@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Spectra Logic is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://spectralogic.com/
+Spectra Logic provides scalable, resilient data storage solutions for on-premises and cloud environments, helping organizations preserve, protect, and defend critical data. Their product portfolio includes tape libraries, object storage systems, and data management software designed for high availability and long-term retention.
+
+**Areas:** Company · Data Storage · Enterprise · Backup · Cloud
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://spectralogic.com/)
+- [Documentation](https://developer.spectralogic.com/)
+- [Support](https://spectralogic.com/support/)
+- [Blog](https://spectralogic.com/blog/)
+- [Privacy policy](https://spectralogic.com/privacy/)
+- [GitHub](https://github.com/SpectraLogic)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/spectra-logic/](https://apis.io/providers/spectra-logic/).
